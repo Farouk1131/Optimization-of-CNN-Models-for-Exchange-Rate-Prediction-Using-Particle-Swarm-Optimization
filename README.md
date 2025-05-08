@@ -16,7 +16,7 @@ This project implements a Convolutional Neural Network (CNN) for univariate time
 ## Installation Instructions
 1. Clone the repository:
    ```
-https://github.com/Farouk1131/Optimization-of-CNN-Models-for-Exchange-Rate-Prediction-Using-Particle-Swarm-Optimization
+   https://github.com/Farouk1131/Optimization-of-CNN-Models-for-Exchange-Rate-Prediction-Using-Particle-Swarm-Optimization
 
    ```
 
