@@ -16,8 +16,8 @@ This project implements a Convolutional Neural Network (CNN) for univariate time
 ## Installation Instructions
 1. Clone the repository:
    ```
-   git clone https://github.com/Farouk1131/exchange-rate-prediction.git
-   cd exchange-rate-prediction
+https://github.com/Farouk1131/Optimization-of-CNN-Models-for-Exchange-Rate-Prediction-Using-Particle-Swarm-Optimization
+
    ```
 
 2. Install required packages:
