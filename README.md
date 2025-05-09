@@ -85,16 +85,9 @@ The CNN Univariate model consists of:
   - `1. Introduction.ipynb`: Project overview and goals
   - `2. Data Preparation.ipynb`: Data cleaning and preprocessing
   - `3. ARIMA.ipynb`: Implementation of the base econometric model
-  - `4. MLP Univariate.ipynb`: Implementation of the MLP model with single feature
   - `5. CNN Univariate.ipynb`: Implementation of the CNN model with single feature
-  - `6. MLP Multivariate.ipynb`: Implementation of the MLP model with multiple features
-  - `7. CNN Multivariate.ipynb`: Implementation of the CNN model with multiple features
   - `8. Comparison.ipynb`: Comparison of all base models
-  - `9. PSO MLP Univariate.ipynb`: PSO-optimized MLP model
   - `10. PSO CNN Univariate.ipynb`: PSO-optimized CNN model
-  - `11. PSO MLP Multivariate.ipynb`: PSO-optimized MLP model with multiple features
-  - `12. PSO CNN Multivariate.ipynb`: PSO-optimized CNN model with multiple features
-  - `13. Final Comparison.ipynb`: Comprehensive comparison of all models
 
 ## Acknowledgements
 - Original research paper methodology for comparison
